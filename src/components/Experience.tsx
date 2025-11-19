@@ -13,8 +13,24 @@ const experiences = [
   },
   {
     title: 'IT Support Intern — PTDF',
-    period: 'Mar 2024 — Jan 2025',
+    period: 'Mar 2024 — Jan 2025 • Abuja, Nigeria',
     points: ['Provided technical support and service monitoring.'],
+  },
+  {
+    title: 'Teaching Assistant — NOW Education',
+    period: 'Jun 2023 — Jan 2024 • United Kingdom',
+    points: [
+      'Assisted lesson delivery and assessed student performance.',
+      'Supported diverse learning needs and professional development.',
+    ],
+  },
+  {
+    title: 'General IT Practitioner — NERDC',
+    period: 'Feb 2022 — Sep 2022 • Abuja, Nigeria',
+    points: [
+      'Resolved hardware/software issues and maintained IT infrastructure.',
+      'Performed installations, backups, and ensured network security.',
+    ],
   },
 ];
 
