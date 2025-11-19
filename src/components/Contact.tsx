@@ -1,7 +1,5 @@
-import React, { useState } from 'react';
-import { motion } from 'framer-motion';
-import { useInView } from 'framer-motion';
-import { useRef } from 'react';
+import { useState, useRef } from 'react';
+import { motion, useInView } from 'framer-motion';
 import emailjs from 'emailjs-com';
 import { SITE } from '../data/siteData';
 

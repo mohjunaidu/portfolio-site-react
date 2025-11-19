@@ -1,6 +1,4 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { SITE } from '../data/siteData';
 
 export default function Hero() {
   return (
